@@ -1,0 +1,18 @@
+{
+    "token": "NTk1NzMwNDkxMjkwOTQzNTA5.X-LaWw.QH6oJ-Sp5aAEoXTHfNyR1jyjBaA",
+    "password": "password-here",
+    "prefix": "/",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": false,
+    "slotbot_sniper": false,
+    "privnote_sniper": false,
+
+    "stream_url": "https://twitch.tv/monstercat",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
